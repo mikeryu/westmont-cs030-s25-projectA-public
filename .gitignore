@@ -1,0 +1,16 @@
+# IDE Configs
+*.iml
+.idea
+.vscode
+
+# Build Artifacts
+out
+*.class
+
+# Python Files
+**/__pycache__
+*.py
+*.pyc
+
+# MacOS Filesystem Custom Attributes
+.DS_Store
