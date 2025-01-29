@@ -2,7 +2,7 @@
  * Westmont College Spring 2025
  * CS 030 Project A (Calcudoku Solver)
  *
- * @author Assistant Professor Mike Ryu mryu@westmont.edu  // TODO: Use your name and email.
+ * @author Assistant Professor Mike Ryu mryu@westmont.edu
  *
  * DO NOT MODIFY ANYTHING IN THIS FILE!
  */
